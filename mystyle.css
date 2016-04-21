@@ -1,0 +1,9 @@
+html {
+    background-image: url('mountains.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
