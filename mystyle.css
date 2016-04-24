@@ -6,6 +6,8 @@ body {
     background-attachment: fixed;
     height: 100%;
     width: 100%;
+    font-family: Verdana, Geneva, sans-serif;
+
 
 }
 
@@ -14,8 +16,13 @@ body {
     margin-left: 10px;
 }
 
+.content {
+    max-width: 960px;
+    margin: auto;
+}
+
 .back {
-    background-color: rgba(0,0,0, 0.4);
+    background-color: rgba(0,0,0, 0.5);
     margin-top: 50px;
     margin-bottom: 50px;
 
@@ -27,6 +34,7 @@ body {
 .image {
     margin-top: 25px;
     margin-bottom: 25px;
+
 }
 
 .image:hover {
@@ -41,15 +49,41 @@ body {
 }
 
 .name {
-    /*color: white;*/
+    color: #78c3e9;
     text-shadow:2px, 2px, 50px, #000;
+    text-decoration: dotted;
 }
 
 .bordi {
     border-bottom-style: double;
     border-color: #ccc;
+    margin: 20px;
 }
 
 .bigger {
     font-size: 100px;
 }
+
+.font-color {
+    color: #fff;
+    margin: 20px 20px 20px 20px;
+}
+
+.textlook {
+    font-size: 1.3em;
+}
+
+ul {
+    font-style: italic;
+}
+
+p, ul, h2 {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.workplace {
+    text-decoration: underline;
+}
+
+
+
