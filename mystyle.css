@@ -22,11 +22,10 @@ body {
 }
 
 .back {
+    background-color: rgb(124, 121, 121); /* The Fallback */
     background-color: rgba(0,0,0, 0.5);
     margin-top: 50px;
     margin-bottom: 50px;
-
-    padding-bottom: 1000px;
 
     height: 100%;
 }
