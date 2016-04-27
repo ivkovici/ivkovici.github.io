@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="613b9904-1438-4632-8720-d5e2dae5fd0a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ballons.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sand-sun-comp.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sand-sun.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sandsun.jpeg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="613b9904-1438-4632-8720-d5e2dae5fd0a" name="Default" comment="" />
     <ignored path="igor-ivkovic.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
