@@ -7,10 +7,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="64"
    height="64"
-   id="svg2985">
+   id="svg2985"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="drawing1.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="10.429825"
+     inkscape:cx="28.578974"
+     inkscape:cy="28.938186"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text2997" />
   <defs
      id="defs2987">
     <filter
@@ -112,7 +136,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -130,26 +154,24 @@
        transform="matrix(1.0909091,0,0,1.0909092,-2.8660478,-3.9268991)"
        id="g3836"
        style="fill:#ffffff;filter:url(#filter4281)">
-      <text
-         x="-7.2647047"
-         y="109.1681"
+      <g
          transform="scale(1.9175635,0.52149512)"
-         id="text2993"
-         xml:space="preserve"
-         style="font-size:121.14067841px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-           x="-7.2647047"
-           y="109.1681"
-           id="tspan2995">i</tspan></text>
-      <text
-         x="6.883328"
-         y="-17.13409"
+         style="font-size:121.14067841px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         id="text2993">
+        <path
+           d="m 4.1513846,42.91929 10.8837324,0 0,66.24881 -10.8837324,0 0,-66.24881 m 0,-25.789715 10.8837324,0 0,13.782118 -10.8837324,0 0,-13.782118"
+           style=""
+           id="path3012" />
+      </g>
+      <g
          transform="scale(1.9175635,-0.52149512)"
-         id="text2997"
-         xml:space="preserve"
-         style="font-size:121.14067841px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-           x="6.883328"
-           y="-17.13409"
-           id="tspan2999">i</tspan></text>
+         style="font-size:121.14067841px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         id="text2997">
+        <path
+           d="m 18.299417,-83.382899 10.883733,0 0,66.248809 -10.883733,0 0,-66.248809 m 0,-25.789711 10.883733,0 0,13.782115 -10.883733,0 0,-13.782115"
+           style=""
+           id="path3015" />
+      </g>
     </g>
   </g>
 </svg>
